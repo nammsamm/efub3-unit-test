@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="efub.session.test.service.ScoreServiceTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-09-27T14:33:31" hostname="DESKTOP-6CMDOCS" time="1.159">
+  <properties/>
+  <testcase name="doScore_GivenLowScore_ReturnGradeF()" classname="efub.session.test.service.ScoreServiceTest" time="1.064"/>
+  <testcase name="doScore_GivenTooHighScore_ReturnWarningPhrase()" classname="efub.session.test.service.ScoreServiceTest" time="0.01"/>
+  <testcase name="doScore_GivenHighScore_ReturnGradeA()" classname="efub.session.test.service.ScoreServiceTest" time="0.07"/>
+  <testcase name="doScore_GivenMinusScore_ReturnWarningPhrase()" classname="efub.session.test.service.ScoreServiceTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
